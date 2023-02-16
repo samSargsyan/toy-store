@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/samSargsyan.github.io/toystore.github.io/static/css/main.8b27955d.css",
+    "main.js": "/samSargsyan.github.io/toystore.github.io/static/js/main.2a9bed93.js",
+    "static/js/787.23170c61.chunk.js": "/samSargsyan.github.io/toystore.github.io/static/js/787.23170c61.chunk.js",
+    "static/media/bear.png": "/samSargsyan.github.io/toystore.github.io/static/media/bear.e748c328b6430a374017.png",
+    "static/media/homeToy.png": "/samSargsyan.github.io/toystore.github.io/static/media/homeToy.cf8969aaaa83398e1537.png",
+    "static/media/toyMaker.jpg": "/samSargsyan.github.io/toystore.github.io/static/media/toyMaker.2c07739e64e8991e3b0d.jpg",
+    "static/media/locationSymbol.png": "/samSargsyan.github.io/toystore.github.io/static/media/locationSymbol.29f404a75cd5ec1742f6.png",
+    "static/media/Instagram-Icon.png": "/samSargsyan.github.io/toystore.github.io/static/media/Instagram-Icon.5937ae0c28fe1db4c8c5.png",
+    "static/media/background2.png": "/samSargsyan.github.io/toystore.github.io/static/media/background2.7f54e96fdbbc718b9d3f.png",
+    "static/media/logo.png": "/samSargsyan.github.io/toystore.github.io/static/media/logo.72334840bee51072be51.png",
+    "static/media/slinky.png": "/samSargsyan.github.io/toystore.github.io/static/media/slinky.7ab3ca49fa58de9e6f96.png",
+    "static/media/th.png": "/samSargsyan.github.io/toystore.github.io/static/media/th.968dacbfc4b662b44ce3.png",
+    "static/media/minion.png": "/samSargsyan.github.io/toystore.github.io/static/media/minion.a62651b0d420aa203f7e.png",
+    "static/media/background.jpg": "/samSargsyan.github.io/toystore.github.io/static/media/background.8785ba4950c52e332f9f.jpg",
+    "static/media/twitter.png": "/samSargsyan.github.io/toystore.github.io/static/media/twitter.7db2410756655c345272.png",
+    "static/media/contactSymbol.png": "/samSargsyan.github.io/toystore.github.io/static/media/contactSymbol.541eaf64f1997adc5d95.png",
+    "index.html": "/samSargsyan.github.io/toystore.github.io/index.html",
+    "main.8b27955d.css.map": "/samSargsyan.github.io/toystore.github.io/static/css/main.8b27955d.css.map",
+    "main.2a9bed93.js.map": "/samSargsyan.github.io/toystore.github.io/static/js/main.2a9bed93.js.map",
+    "787.23170c61.chunk.js.map": "/samSargsyan.github.io/toystore.github.io/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b27955d.css",
+    "static/js/main.2a9bed93.js"
+  ]
+}
