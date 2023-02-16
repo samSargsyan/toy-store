@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samSargsyan.github.io/toystore.github.io/static/css/main.8b27955d.css",
-    "main.js": "/samSargsyan.github.io/toystore.github.io/static/js/main.2a9bed93.js",
+    "main.js": "/samSargsyan.github.io/toystore.github.io/static/js/main.6854ebf7.js",
     "static/js/787.23170c61.chunk.js": "/samSargsyan.github.io/toystore.github.io/static/js/787.23170c61.chunk.js",
     "static/media/bear.png": "/samSargsyan.github.io/toystore.github.io/static/media/bear.e748c328b6430a374017.png",
     "static/media/homeToy.png": "/samSargsyan.github.io/toystore.github.io/static/media/homeToy.cf8969aaaa83398e1537.png",
@@ -18,11 +18,11 @@
     "static/media/contactSymbol.png": "/samSargsyan.github.io/toystore.github.io/static/media/contactSymbol.541eaf64f1997adc5d95.png",
     "index.html": "/samSargsyan.github.io/toystore.github.io/index.html",
     "main.8b27955d.css.map": "/samSargsyan.github.io/toystore.github.io/static/css/main.8b27955d.css.map",
-    "main.2a9bed93.js.map": "/samSargsyan.github.io/toystore.github.io/static/js/main.2a9bed93.js.map",
+    "main.6854ebf7.js.map": "/samSargsyan.github.io/toystore.github.io/static/js/main.6854ebf7.js.map",
     "787.23170c61.chunk.js.map": "/samSargsyan.github.io/toystore.github.io/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b27955d.css",
-    "static/js/main.2a9bed93.js"
+    "static/js/main.6854ebf7.js"
   ]
 }
