@@ -1,0 +1,33 @@
+.productDiv{
+    padding-top: 50px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    img{
+        border-radius: 10px;
+        
+    }
+    .age{
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+        border: 3px solid black;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+.productDescription{
+    font-family: "Lobster", cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 50px;
+}
+
+.productBottom{
+    display: flex;
+    justify-content: space-between;
+}

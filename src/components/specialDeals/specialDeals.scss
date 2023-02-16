@@ -1,0 +1,84 @@
+.deals{
+    width: 350px;
+    height: 350px;
+}
+.specialDealsDiv{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    &:hover{
+        .specialbundle{
+            opacity: 0;
+        }
+        .toy1{
+            transform: rotate(0deg);
+            margin-right: 0px;
+            margin-bottom: 0px;
+        }
+        .toy2{
+            z-index: 10;
+            width: 200px;
+            height: 200px;
+           
+        }
+        .toy3{
+            transform: rotate(360deg);
+            margin-left: 0px;
+            margin-bottom: 0px;
+        }
+        .specialprice{
+            opacity: 1;
+            transition: all 0.5s ease-in-out;
+        }
+    }
+}
+.specialDealsDescription{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.specialtoy{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+    height: 200px;
+    flex-direction: column;
+}
+
+.toy1{
+    transform: rotate(325deg);
+    margin-right: -115px;
+    margin-bottom: -50px;
+    transition: all 0.5s ease-in-out;
+}
+.toy2{
+    z-index: 10;
+    width: 250px;
+    height: 250px;
+    transition: all 0.5s ease-in-out;
+}
+.toy3{
+    transform: rotate(35deg);
+    margin-left: -115px;
+    margin-bottom: -50px;
+    transition: all 0.5s ease-in-out;
+}
+.specialprice{
+    color: darkslategrey;
+    font-weight: bold;
+    font-size: 18px;
+    opacity: 0;
+}
+.specialbundle{
+    color: darkslategrey;
+    font-weight: bold;
+    transition: all 0.5s ease-in-out;
+    font-size: 18px;
+    opacity: 1;
+    p{
+        color: red;
+        font-size: 24px;
+    }
+}
