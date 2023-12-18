@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.57a4bea9.css",
-    "main.js": "./static/js/main.9356b23e.js",
-    "static/js/787.10764810.chunk.js": "./static/js/787.10764810.chunk.js",
-    "static/media/bear.png": "./static/media/bear.e748c328b6430a374017.png",
-    "static/media/homeToy.png": "./static/media/homeToy.cf8969aaaa83398e1537.png",
-    "static/media/toyMaker.jpg": "./static/media/toyMaker.2c07739e64e8991e3b0d.jpg",
-    "static/media/locationSymbol.png": "./static/media/locationSymbol.29f404a75cd5ec1742f6.png",
-    "static/media/Instagram-Icon.png": "./static/media/Instagram-Icon.5937ae0c28fe1db4c8c5.png",
-    "static/media/background2.png": "./static/media/background2.7f54e96fdbbc718b9d3f.png",
-    "static/media/logo.png": "./static/media/logo.72334840bee51072be51.png",
-    "static/media/slinky.png": "./static/media/slinky.7ab3ca49fa58de9e6f96.png",
-    "static/media/th.png": "./static/media/th.968dacbfc4b662b44ce3.png",
-    "static/media/minion.png": "./static/media/minion.a62651b0d420aa203f7e.png",
-    "static/media/background.jpg": "./static/media/background.8785ba4950c52e332f9f.jpg",
-    "static/media/twitter.png": "./static/media/twitter.7db2410756655c345272.png",
-    "static/media/contactSymbol.png": "./static/media/contactSymbol.541eaf64f1997adc5d95.png",
-    "index.html": "./index.html",
-    "main.57a4bea9.css.map": "./static/css/main.57a4bea9.css.map",
-    "main.9356b23e.js.map": "./static/js/main.9356b23e.js.map",
-    "787.10764810.chunk.js.map": "./static/js/787.10764810.chunk.js.map"
+    "main.css": "/samsargsyan.github.io/toy-store.github.io/static/css/main.fc3454b3.css",
+    "main.js": "/samsargsyan.github.io/toy-store.github.io/static/js/main.bfc22dd1.js",
+    "static/js/787.10764810.chunk.js": "/samsargsyan.github.io/toy-store.github.io/static/js/787.10764810.chunk.js",
+    "static/media/bear.png": "/samsargsyan.github.io/toy-store.github.io/static/media/bear.e748c328b6430a374017.png",
+    "static/media/homeToy.png": "/samsargsyan.github.io/toy-store.github.io/static/media/homeToy.cf8969aaaa83398e1537.png",
+    "static/media/toyMaker.jpg": "/samsargsyan.github.io/toy-store.github.io/static/media/toyMaker.2c07739e64e8991e3b0d.jpg",
+    "static/media/locationSymbol.png": "/samsargsyan.github.io/toy-store.github.io/static/media/locationSymbol.29f404a75cd5ec1742f6.png",
+    "static/media/Instagram-Icon.png": "/samsargsyan.github.io/toy-store.github.io/static/media/Instagram-Icon.5937ae0c28fe1db4c8c5.png",
+    "static/media/background2.png": "/samsargsyan.github.io/toy-store.github.io/static/media/background2.7f54e96fdbbc718b9d3f.png",
+    "static/media/logo.png": "/samsargsyan.github.io/toy-store.github.io/static/media/logo.72334840bee51072be51.png",
+    "static/media/slinky.png": "/samsargsyan.github.io/toy-store.github.io/static/media/slinky.7ab3ca49fa58de9e6f96.png",
+    "static/media/th.png": "/samsargsyan.github.io/toy-store.github.io/static/media/th.968dacbfc4b662b44ce3.png",
+    "static/media/minion.png": "/samsargsyan.github.io/toy-store.github.io/static/media/minion.a62651b0d420aa203f7e.png",
+    "static/media/background.jpg": "/samsargsyan.github.io/toy-store.github.io/static/media/background.8785ba4950c52e332f9f.jpg",
+    "static/media/twitter.png": "/samsargsyan.github.io/toy-store.github.io/static/media/twitter.7db2410756655c345272.png",
+    "static/media/contactSymbol.png": "/samsargsyan.github.io/toy-store.github.io/static/media/contactSymbol.541eaf64f1997adc5d95.png",
+    "index.html": "/samsargsyan.github.io/toy-store.github.io/index.html",
+    "main.fc3454b3.css.map": "/samsargsyan.github.io/toy-store.github.io/static/css/main.fc3454b3.css.map",
+    "main.bfc22dd1.js.map": "/samsargsyan.github.io/toy-store.github.io/static/js/main.bfc22dd1.js.map",
+    "787.10764810.chunk.js.map": "/samsargsyan.github.io/toy-store.github.io/static/js/787.10764810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a4bea9.css",
-    "static/js/main.9356b23e.js"
+    "static/css/main.fc3454b3.css",
+    "static/js/main.bfc22dd1.js"
   ]
 }
