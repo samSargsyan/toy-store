@@ -3,7 +3,7 @@ import Header from './components/header/Header';
 import Content from './components/content/Content';
 import Footer from './components/footer/Footer';
 import About from './components/about/About';
-import { Routes, Route, Navigate } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Contacts from './components/contacts/Contacts';
 import Product from './components/product/Product';
 import items from './components/items';
