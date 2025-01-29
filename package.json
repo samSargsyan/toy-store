@@ -1,7 +1,7 @@
 {
-  "homepage": "samsargsyan.github.io/toy-store.github.io",
   "name": "toys",
   "version": "0.1.0",
+  "homepage": "samsargsyan.github.io/toy-store",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
